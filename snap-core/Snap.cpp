@@ -32,3 +32,6 @@
 #include "ghash.cpp"
 #include "statplot.cpp"
 #include "gio.cpp"
+
+// Attribute Hash-Table
+#include "ahash.h"
